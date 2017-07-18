@@ -1,6 +1,6 @@
 # BW CONCORDANCE APP
 
-All relevant logic can be found in src/app/app.component.ts & src/app.app.util.ts
+## All relevant logic can be found in src/app/app.component.ts & src/app.app.util.ts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
