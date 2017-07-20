@@ -1,10 +1,21 @@
 md-card-title {
     font-size: 18px;
 }
+
 h1 {
     text-align: center;
 }
+
 .container {
     max-width: 500px;
     margin: 0 auto;
+}
+
+textarea {
+    background: white;
+}
+
+md-input-container {
+    background: white;
+    padding: 10px;
 }

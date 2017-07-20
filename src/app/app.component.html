@@ -2,7 +2,12 @@
 <h1>Concordance</h1>
 
 <div class="container" style="text-align:center">
-
+    <label>Input Body Text</label>
+    <br>
+    <md-input-container>
+      
+      <textarea name="" [formControl]="inputText" mdInput id="" cols="50" rows="10"></textarea>
+    </md-input-container>
     <md-card *ngFor="let word of collection">
        <p>
          <md-card-title>{{ word.word | uppercase }}</md-card-title>
